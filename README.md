@@ -94,7 +94,7 @@ When developing an application that sends sms, you probably don't want to actual
 - `content(string $content)`: Accepts a string value for the sms content.
 - `sender(string $sender)`: Accepts a string value for the sender name.
 - `campaign(string $campaign)`: Accepts a string value for the sms campaign name.
-- `sendAt(\DateTime $sendAt)`: Accepts a DateTime for the sms due date.
+- `sendAt(\DateTimeInterface|string $sendAt)`: Accepts a DateTimeInterface or string for the sms due date.
 - `parameters(array $parameters)`: Accepts an array for the sms parameters.
 
 ## Changelog
