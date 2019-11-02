@@ -2,8 +2,8 @@
 
 namespace NotificationChannels\AllMySms;
 
-use GuzzleHttp\RequestOptions;
 use GuzzleHttp\Client as HttpClient;
+use GuzzleHttp\RequestOptions;
 use Psr\Http\Message\ResponseInterface;
 
 class AllMySms

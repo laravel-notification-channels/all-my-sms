@@ -2,15 +2,15 @@
 
 namespace NotificationChannels\AllMySms\Test;
 
-use Mockery;
 use GuzzleHttp\Client;
 use GuzzleHttp\Psr7\Response;
-use PHPUnit\Framework\TestCase;
+use Mockery;
 use NotificationChannels\AllMySms\AllMySms;
 use NotificationChannels\AllMySms\AllMySmsChannel;
 use NotificationChannels\AllMySms\Exceptions\CouldNotSendNotification;
 use NotificationChannels\AllMySms\Test\Notifications\TestNotification;
 use NotificationChannels\AllMySms\Test\Notifications\TestNotificationWithParameters;
+use PHPUnit\Framework\TestCase;
 
 class ChannelTest extends TestCase
 {
