@@ -3,9 +3,9 @@
 namespace NotificationChannels\AllMySms;
 
 use GuzzleHttp\Client as HttpClient;
-use Illuminate\Support\ServiceProvider;
 use Illuminate\Notifications\ChannelManager;
 use Illuminate\Support\Facades\Notification;
+use Illuminate\Support\ServiceProvider;
 
 class AllMySmsServiceProvider extends ServiceProvider
 {

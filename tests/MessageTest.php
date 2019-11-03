@@ -3,8 +3,8 @@
 namespace NotificationChannels\AllMySms\Test;
 
 use Illuminate\Support\Arr;
-use PHPUnit\Framework\TestCase;
 use NotificationChannels\AllMySms\AllMySmsMessage;
+use PHPUnit\Framework\TestCase;
 
 class MessageTest extends TestCase
 {
