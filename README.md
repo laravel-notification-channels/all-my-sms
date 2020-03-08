@@ -4,7 +4,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/laravel-notification-channels/all-my-sms/master.svg?style=flat-square)](https://travis-ci.org/laravel-notification-channels/all-my-sms)
 [![StyleCI](https://styleci.io/repos/217854455/shield)](https://styleci.io/repos/217854455)
-[![SensioLabsInsight](https://img.shields.io/sensiolabs/i/3891e102-689d-402f-9be0-a09ddc5eda61.svg?style=flat-square)](https://insight.sensiolabs.com/projects/3891e102-689d-402f-9be0-a09ddc5eda61)
 [![Quality Score](https://img.shields.io/scrutinizer/g/laravel-notification-channels/all-my-sms.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/all-my-sms)
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/all-my-sms/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/all-my-sms/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/all-my-sms.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/all-my-sms)
