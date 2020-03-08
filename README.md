@@ -9,7 +9,7 @@
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/all-my-sms/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/all-my-sms/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/all-my-sms.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/all-my-sms)
 
-This package makes it easy to send notifications using [AllMySms](https://www.allmysms.com/) with Laravel 5.5+ and 6.0
+This package makes it easy to send notifications using [AllMySms](https://www.allmysms.com/) with Laravel 5.5+, 6.x and 7.x.
 
 ## Contents
 
