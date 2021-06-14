@@ -38,6 +38,17 @@ class ChannelTest extends TestCase
         ];
     }
 
+    protected function tearDown(): void
+    {
+        parent::tearDown();
+
+        if ($container = \Mockery::getContainer()) {
+            $this->addToAssertionCount($container->mockery_getExpectationCount());
+        }
+
+        Mockery::close();
+    }
+
     /** @test */
     public function sms_is_sent_via_all_my_sms()
     {
