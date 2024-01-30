@@ -1,7 +1,7 @@
 {
-    "name": "laravel-notification-channels/all-my-sms",
-    "description": "AllMySms Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/all-my-sms",
+    "name": "ankheur/all-my-sms",
+    "description": "AllMySms Notifications driver for Laravel",
+    "homepage": "https://github.com/ankheur/all-my-sms",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2.5",
+        "php": ">=7.3",
         "guzzlehttp/guzzle": "^6.2 || ^7.0",
         "illuminate/notifications": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0",
         "illuminate/support": "^5.5 || ^6.0 || ^7.0 || ^8.0 || ^9.0 || ^10.0"
