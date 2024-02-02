@@ -1,7 +1,7 @@
 {
-    "name": "ankheur/all-my-sms",
+    "name": "laravel-notification-channels/all-my-sms",
     "description": "AllMySms Notifications driver for Laravel",
-    "homepage": "https://github.com/ankheur/all-my-sms",
+    "homepage": "https://github.com/laravel-notification-channels/all-my-sms",
     "license": "MIT",
     "authors": [
         {
